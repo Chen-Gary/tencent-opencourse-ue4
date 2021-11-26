@@ -20,5 +20,6 @@
 
 * Source code: see `Tencent_Assignment2` folder
 * UE 4.26.2
+* Check [release v2.0](https://github.com/Chen-Gary/tencent-opencourse-ue4/releases/tag/v2.0) for executable and demo
 * Feature description: see [this issue](https://github.com/Chen-Gary/tencent-opencourse-ue4/issues/1)
 
